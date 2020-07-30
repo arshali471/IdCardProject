@@ -1,5 +1,7 @@
 do manipulation in database:
 RUN THE FOLLOWING COMMAND ON MYSQL WORK BENCH.
+user='root'
+password=0089
 1.step to create database with name 
 		'create database arshdb;'
 2.step:
