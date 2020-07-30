@@ -1,0 +1,11 @@
+do manipulation in database:
+RUN THE FOLLOWING COMMAND ON MYSQL WORK BENCH.
+1.step to create database with name 
+		'create database arshdb;'
+2.step:
+	'use arshdb;'
+3.step:
+  ' create table Student(RegistrationNO varchar(258),Name varchar(258),FatherName varchar(258),MotherName varchar(258),Designation varchar(258),DateOfBirth date,Gender varchar(258),ContactNo varchar(258),Email varchar(258),Joindate date,Address varchar(608),Qualification varchar(258),profilepic longblob); '
+
+4.step :
+	' create table Teacher(RegistrationNO varchar(258),Name varchar(258),FatherName varchar(258),MotherName varchar(258),Designation varchar(258),DateOfBirth date,Gender varchar(258),ContactNo varchar(258),Email varchar(258),Joindate date,Address varchar(608),Qualification varchar(258),profilepic longblob); '
